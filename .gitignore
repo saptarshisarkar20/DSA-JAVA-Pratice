@@ -102,3 +102,6 @@ nb-configuration.xml
 # OS X 
 .DS_Store
 
+# Ignore all .exe and .out files
+*.exe
+*.out
