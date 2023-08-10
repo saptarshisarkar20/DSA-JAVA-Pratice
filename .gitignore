@@ -124,3 +124,25 @@ env/
 .DS_Store
 *.log
 *.bak
+
+# Ignore object files
+*.o
+*.a
+*.so
+
+# Ignore executables
+*.out
+*.exe
+
+# Ignore build directories
+build/
+bin/
+
+# Ignore IDE files
+*.project
+*.cproject
+*.settings
+
+# Ignore other files
+*~
+.DS_Store
