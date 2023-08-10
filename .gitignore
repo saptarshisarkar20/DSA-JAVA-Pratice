@@ -22,3 +22,128 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see [1](http://www.java.com/en/download/help/error_hotspot.xml)
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+
+# IntelliJ IDEA
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse IDE
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# NetBeans IDE
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Visual Studio Code IDE
+.vscode/
+
+# OS X 
+.DS_Store
+
+# Ignore all .exe and .out files
+*.exe
+*.out
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore other common files
+.DS_Store
+*.log
+*.bak
+
+# Ignore object files
+*.o
+*.a
+*.so
+
+# Ignore executables
+*.out
+*.exe
+
+# Ignore build directories
+build/
+bin/
+
+# Ignore IDE files
+*.project
+*.cproject
+*.settings
+
+# Ignore other files
+*~
+.DS_Store
+CPP-Linux-1/src/LeetCode/Test_HW
