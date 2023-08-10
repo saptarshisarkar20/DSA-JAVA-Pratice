@@ -105,3 +105,22 @@ nb-configuration.xml
 # Ignore all .exe and .out files
 *.exe
 *.out
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore other common files
+.DS_Store
+*.log
+*.bak
