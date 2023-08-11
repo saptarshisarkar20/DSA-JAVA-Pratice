@@ -93,7 +93,7 @@ Enhance your understanding with these valuable DSA resources:
 - [450 DSA Problems](https://450dsa.com/)
 - [DSA Cracker Sheet](https://www.interviewbit.com/coding-problems/)
 - [Love Babbar's DSA Sheet](https://lovebabbar450-sheet.herokuapp.com/)
-- [Striver's SDE Sheet](https://www.youtube.com/playlist?list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_)
+- [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/_)
 
 ### GitHub Repositories
 
