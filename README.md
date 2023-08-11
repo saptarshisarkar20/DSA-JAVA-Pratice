@@ -76,7 +76,7 @@ Enhance your understanding with these valuable DSA resources:
 - [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 - [Back To Back SWE YouTube Channel](https://www.youtube.com/c/BackToBackSWE)
 - [mycodeschool YouTube Channel](https://www.youtube.com/user/mycodeschool)
-- [CodeWithHarry YouTube Channel](https://www.youtube.com/user/delhitrainingcourses)
+- [CodeWithHarry YouTube Channel](https://youtube.com/@CodeWithHarry)
 
 ### Books
 
