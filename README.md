@@ -1,6 +1,6 @@
 # Comprehensive DSA Practice Repository
 
-Welcome to the **Comprehensive DSA Practice Repository**, authored by [Your Name]. This repository serves as a treasure trove of Data Structures and Algorithms (DSA) practice codes in Java, C++, and Python. Whether you're a novice or an experienced programmer, this repository is designed to aid your learning journey and mastery of essential DSA concepts.
+Welcome to the **Comprehensive DSA Practice Repository**, authored by Saptarshi Sarkar. This repository serves as a treasure trove of Data Structures and Algorithms (DSA) practice codes in Java, C++, and Python. Whether you're a novice or an experienced programmer, this repository is designed to aid your learning journey and mastery of essential DSA concepts.
 
 ## Table of Contents
 
