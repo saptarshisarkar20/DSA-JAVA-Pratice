@@ -8,7 +8,7 @@ public class DateTimeFormatter_CWH {
         LocalDateTime dt = LocalDateTime.now(); //This is the date
         System.out.println(dt);
 
-        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("DD | MM | YYYY --> E | H:m a ");  // This is the format
+        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd | MM | yyyy --> E | H:m a ");  // This is the format
         DateTimeFormatter dtf2 = DateTimeFormatter.ISO_ORDINAL_DATE;
 
         String myDate2 = dt.format(dtf2);
