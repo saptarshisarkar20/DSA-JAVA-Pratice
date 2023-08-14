@@ -1,6 +1,7 @@
 package LeetCode;
 
-class Solution {
+
+public class CheckIfThereIsAValidPartitionForTheArray {
     public boolean validPartition(int[] nums) {
         return solAns(nums, new Boolean[nums.length + 1], 0);
     }
@@ -26,8 +27,4 @@ class Solution {
 
         return dp[ind] = res;
     }
-}
-
-public class CheckIfThereIsAValidPartitionForTheArray {
-
 }
