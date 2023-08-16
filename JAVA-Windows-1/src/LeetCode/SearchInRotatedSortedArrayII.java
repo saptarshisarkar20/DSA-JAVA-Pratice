@@ -1,6 +1,7 @@
 package LeetCode;
 
-class Solution {
+
+public class SearchInRotatedSortedArrayII {
     public boolean search(int[] nums, int target) {
         int start = 0, end = nums.length - 1, mid = -1;
         while (start <= end) {
@@ -32,7 +33,4 @@ class Solution {
 
         return false;
     }
-}
-
-public class SearchInRotatedSortedArrayII {
 }
